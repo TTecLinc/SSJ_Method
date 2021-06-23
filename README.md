@@ -1,4 +1,4 @@
 # Sequence-Jacobian Method
 Econometrica-version Sequence-Jacobian Method for HANK
 
-Adrien Auclert*, Bence Bardóczy†, Matthew Rognlie‡, Ludwig Straub§
+Made by Adrien Auclert*, Bence Bardóczy†, Matthew Rognlie‡, Ludwig Straub§
