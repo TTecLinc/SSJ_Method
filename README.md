@@ -8,3 +8,6 @@ Made by **Adrien Auclert*, Bence Bardóczy†, Matthew Rognlie‡, Ludwig Straub
 ## Application 1: OLG General Equilibrium Transition Path
 
 ![image](https://github.com/TTecLinc/sequence-jacobian_ecma/blob/main/OLG_SSJ.JPG)
+
+## Applicaton 2: The difference between Endogenous and Exogenous Method
+![image](https://github.com/TTecLinc/sequence-jacobian_ecma/blob/main/Endo_Exo_diff.JPG)
