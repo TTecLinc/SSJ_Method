@@ -11,3 +11,4 @@ Made by **Adrien Auclert*, Bence Bardóczy†, Matthew Rognlie‡, Ludwig Straub
 
 ## Applicaton 2: The difference between Endogenous and Exogenous Method
 ![image](https://github.com/TTecLinc/sequence-jacobian_ecma/blob/main/Endo_Exo_diff.JPG)
+![image](https://github.com/TTecLinc/sequence-jacobian_ecma/blob/main/Path_Endo_Exo.JPG)
