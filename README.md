@@ -6,6 +6,7 @@ Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Mode
 Made by **Adrien Auclert*, Bence Bardóczy†, Matthew Rognlie‡, Ludwig Straub§**
 
 Simple version of Jacobian matrix method code "simple_Jacobian_KS.py". Krusell-Smith
+[link] https://github.com/TTecLinc/SSJ_Method/blob/main/simple_Jacobian_KS.py
 
 ## Application 1: OLG General Equilibrium Transition Path
 
